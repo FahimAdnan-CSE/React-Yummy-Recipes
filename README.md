@@ -7,6 +7,7 @@ React Recipe App using styled-components and Spoonacular API. It's a Recipe App 
 Live Site:- https://yummyrecipess.netlify.app/
 ---
 ![](https://github.com/FahimAdnan-CSE/react-yummy-recipes/blob/master/yummyrecipes-1.jpg)
+---
 ![](https://github.com/FahimAdnan-CSE/react-yummy-recipes/blob/master/yummyrecipes-2.jpg)
 
 What technologies were used?
