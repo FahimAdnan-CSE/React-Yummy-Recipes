@@ -1,12 +1,13 @@
 # Recipe App
 
 React Recipe App using styled-components and Spoonacular API. It's a Recipe App that lets you search for recipes and also show you some in the homepage if you're interested in being surprised.
-- PS: the number of recipes shown is limited to 9 on the URL, you can always change it on the requests by changing the variable numberOfRandomRecipes on Veggie.js and Popular.js or by simply inserting it on the URL.
+- The number of recipes shown is limited to 9 on the URL, you can always change it on the requests by changing the variable numberOfRandomRecipes on Veggie.js and Popular.js or by simply inserting it on the URL.
 - With that, you should be able to search any recipe or filter it by Italian, American, Thai and Japanese food. You can always search for the documentation of the API if you want to improve this website.
 
 Live Site:- https://yummyrecipess.netlify.app/
 ---
 ![](https://github.com/FahimAdnan-CSE/react-yummy-recipes/blob/master/yummyrecipes-1.jpg)
+---
 ---
 ![](https://github.com/FahimAdnan-CSE/react-yummy-recipes/blob/master/yummyrecipes-2.jpg)
 
